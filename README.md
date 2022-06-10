@@ -8,8 +8,11 @@ Required inputs are the dates within which the userbase growth should be display
 
 ### Application set up
 This CLI tool uses the following node libraries;
-* **axios** - to make request from the api endpoint ( npm install axios )
-* **console-bar-chart** - renders the requested data in a bar chart graph ( npm install console-bar-chart )
+* **axios** - to make request from the api endpoint 
+```npm install axios```
+
+* **console-bar-chart** - renders the requested data in a bar chart graph.
+```npm install console-bar-chart```
 
 
 ### How to use
