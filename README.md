@@ -16,4 +16,4 @@ This CLI tool uses the following node libraries;
 
 
 ### How to use
-This application runs in the terminal. When inside the project directory, run **'node index.js'**
+This application runs in the terminal. When inside the project directory, run ```node index.js```
